@@ -1,2 +1,5 @@
 # MMT_Clone
-MMT frontend using react
+
+download the zip file, then read the README inside it and follow the instructions.
+
+# Mayank Coder
